@@ -1,0 +1,22 @@
+{
+    "name": "Robobit",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
+        "RoboBit": "github:4tronix/robobit#1.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
